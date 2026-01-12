@@ -1,0 +1,25 @@
+{
+  "name": "abyx",
+  "displayName": "Abyx",
+  "description": "abyx",
+  "publisher": "lucajoos",
+  "repository": {
+    "url": "https://github.com/lucajoos/abyx"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.108.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "abyx",
+        "uiTheme": "vs-dark",
+        "path": "./themes/abyx-color-theme.json"
+      }
+    ]
+  }
+}
